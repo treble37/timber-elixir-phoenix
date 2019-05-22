@@ -108,8 +108,8 @@ defmodule Timber.Phoenix.MixProject do
       {:phoenix, "~> 1.2"},
       {:plug, "~> 1.1"},
       {:timber,
-       git: "https://github.com/treble37/timber-elixir.git",
-       branch: "handle-hackney-exit"},
+       git: "https://github.com/timberio/timber-elixir",
+       ref: "ca9831b05b9c80d7c02a42c3dc8e63164cbba2f5"},
 
       #
       # Tooling
